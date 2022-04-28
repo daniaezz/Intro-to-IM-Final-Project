@@ -12,3 +12,6 @@ repo for Intro to IM final project
 ## Potentiometer
 - https://arduinogetstarted.com/tutorials/arduino-potentiometer	
 - P5: https://editor.p5js.org/j-da-savage/sketches/pd-jlHbPE	
+---
+## Colour Detection 
+- base reference: https://editor.p5js.org/daniaezz/sketches/sKoeBDODa 
