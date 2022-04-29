@@ -20,6 +20,13 @@ repo for Intro to IM final project
 ## Accelerometer
 - circuit/arduino code: https://lastminuteengineers.com/adxl335-accelerometer-arduino-tutorial/	
 
+
+## Using sensors in the context of the game
+
+**Moving object using force sensor and colour detection: https://editor.p5js.org/daniaezz/sketches/1ROz1KAvt** 
+
+this will be used to simlate the action of grabbing, the force sensor will be connected to the glove and the colour of the glove will be used to detect its position 
+
 ---
 
 # Documentation Gallery 
