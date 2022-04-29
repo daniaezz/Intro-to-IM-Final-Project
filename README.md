@@ -18,7 +18,7 @@ repo for Intro to IM final project
 - ellipse moving with colour (red) detection: https://editor.p5js.org/daniaezz/sketches/vs1JHn2C6
 <!-- --- -->
 ## Accelerometer
--circuit/arduino code: https://lastminuteengineers.com/adxl335-accelerometer-arduino-tutorial/	
+- circuit/arduino code: https://lastminuteengineers.com/adxl335-accelerometer-arduino-tutorial/	
 
 ---
 
