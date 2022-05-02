@@ -16,6 +16,7 @@ repo for Intro to IM final project
 - base reference: https://editor.p5js.org/daniaezz/sketches/sKoeBDODa 
 - position tracking using colour (red): https://editor.p5js.org/daniaezz/sketches/vs1JHn2C6
 - ellipse moving with colour (red) detection: https://editor.p5js.org/daniaezz/sketches/vs1JHn2C6
+- for two different objects, no force sensor: https://editor.p5js.org/daniaezz/sketches/fTp8g7Mid
 <!-- --- -->
 ## Accelerometer
 - circuit/arduino code: https://lastminuteengineers.com/adxl335-accelerometer-arduino-tutorial/	
