@@ -19,8 +19,8 @@ repo for Intro to IM final project
 - for two different objects, no force sensor: https://editor.p5js.org/daniaezz/sketches/fTp8g7Mid
 <!-- --- -->
 ## Accelerometer
-- circuit/arduino code: https://lastminuteengineers.com/adxl335-accelerometer-arduino-tutorial/	
-
+- circuit/arduino code: https://mechstuff.com/adxl335-accelerometer-arduino-tutorial-with-calibration/	
+- P5: https://editor.p5js.org/j-da-savage/sketches/eeAUBluDo
 
 ## Using sensors in the context of the game
 
