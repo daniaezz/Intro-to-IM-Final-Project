@@ -30,7 +30,8 @@ this will be used to simlate the action of grabbing, the force sensor will be co
 
 # P5 Sketches
 
-- moving the burger with cv: https://editor.p5js.org/daniaezz/sketches/u7DremGdG
+- moving the burger with cv and force sensor: https://editor.p5js.org/daniaezz/sketches/u7DremGdG
+- cutting tomato using keyboard: https://editor.p5js.org/daniaezz/sketches/Jbh6N5nrW
 ---
 
 # Documentation Gallery 
