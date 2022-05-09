@@ -36,7 +36,7 @@ this will be used to simlate the action of grabbing, the force sensor will be co
 - cutting veggies: https://editor.p5js.org/daniaezz/sketches/BZxeiiukY / https://editor.p5js.org/j-da-savage/sketches/Woaojh1kp
 - smoozie:https://editor.p5js.org/j-da-savage/sketches/-sqCUq-4d / https://editor.p5js.org/daniaezz/sketches/kaqZIPO78
 - BUGRER IS FINALLLY FLIPPINGGGGGGG: https://editor.p5js.org/daniaezz/sketches/oytXVsvtD / https://editor.p5js.org/j-da-savage/sketches/dXqOmcOPA
-- 
+- game modes: https://editor.p5js.org/j-da-savage/sketches/jtkVulYWq
 ---
 
 # Documentation Gallery 
