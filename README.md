@@ -40,6 +40,10 @@ this will be used to simlate the action of grabbing, the force sensor will be co
 - salad cutting board: https://editor.p5js.org/j-da-savage/sketches/gwCUP_MQp/ https://editor.p5js.org/j-da-savage/sketches/6wp-6u74Y //////// https://editor.p5js.org/daniaezz/sketches/aF6EekkWM
 ---
 
+# three codes
+- https://editor.p5js.org/daniaezz/sketches/_-Al1b7FB // smooothie
+- https://editor.p5js.org/daniaezz/sketches/aF6EekkWM // salad
+
 # Documentation Gallery 
 
 ### Force sensor
