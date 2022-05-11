@@ -58,8 +58,8 @@ this will be used to simlate the action of grabbing, the force sensor will be co
 
 # three codes
 - https://editor.p5js.org/daniaezz/sketches/_-Al1b7FB // smooothie
-- https://editor.p5js.org/daniaezz/sketches/aF6EekkWM // salad
--https://editor.p5js.org/j-da-savage/sketches/dXqOmcOPA //burger
+- https://editor.p5js.org/daniaezz/sketches/hNygZxeMY // salad (done)
+- https://editor.p5js.org/j-da-savage/sketches/dXqOmcOPA //burger
 # Documentation Gallery 
 
 ### Force sensor
