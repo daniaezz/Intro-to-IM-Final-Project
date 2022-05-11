@@ -1,23 +1,6 @@
 # Cooking Baba 
 repo for Intro to IM final project
 
-html, body {
-  margin: 0;
-  padding: 0;
-  width: 100%;
-  height: 100%;
-  
-  background-image: url(assets/bkgd.JPG);
-  background-size: cover;
-}
-main{
-  width: 100%;
-  height: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
 # References 
 
 ## Force Sensor
