@@ -588,6 +588,7 @@ All the sensors needed to have 1) a header soldered on to avoid damage to the se
 Since we had around 18 wires dangling all over the place, we decided to twist some of them together with the help of a drill (thank you professor for the brilliant idea).
 Some other difficulties faced - and one of the reasons we could not finish the project in time, nor use the soldered circuit board- was that we had a short circuit that prevented the arduino from turning on, as well as a few misconnections, broken off wires… .
 Overall, we would say that soldering everything on was very laborious and time consuming, but nonetheless taught us a skill that will be beneficial in future projects and allowed for more mobility in our setup.
+
 <img width="297" alt="accelerometer soldering" src="https://user-images.githubusercontent.com/90729334/168380633-288e36b6-d208-4276-9b98-90efe9fdc499.png">
 <img width="296" alt="soldering dania" src="https://user-images.githubusercontent.com/90729334/168380700-fa738456-ee01-4a43-b880-ef1b6660d5d0.png">
 <img width="182" alt="soldering fail" src="https://user-images.githubusercontent.com/90729334/168380709-f0101e7a-f6c4-4469-bd71-6e7e60aa87dc.png">
