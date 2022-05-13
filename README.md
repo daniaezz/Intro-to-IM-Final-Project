@@ -546,6 +546,7 @@ While most of the game works smoothly, these are the recipe specific things that
 We however had issues with setting up opencv to the correct canvas size because of the mirrored nature of opencv but with help from the professor we were able to make it work (thank you professor <3). We also had trouble with the grab function where it would grab multiple objects at once but once again we were able to resolve this issue with guidance from the professor (thank you again 🥰). Overall, we had a lot of issues with the coding, most of them which were caused because of sleep deprivation, but thankfully we were able to solve most of them.
 
 ![cv color detection testing](https://user-images.githubusercontent.com/90729334/168381156-4ff1376e-a2c6-47f6-8883-f8558502b93a.jpg)
+
 <img width="398" alt="Screen Shot 2022-05-14 at 12 02 38 AM" src="https://user-images.githubusercontent.com/90729334/168381456-ed370e8a-4f46-43b7-9c32-d098161eeae9.png">
 
 
@@ -591,10 +592,10 @@ Overall, we would say that soldering everything on was very laborious and time c
 <img width="296" alt="soldering dania" src="https://user-images.githubusercontent.com/90729334/168380700-fa738456-ee01-4a43-b880-ef1b6660d5d0.png">
 <img width="182" alt="soldering fail" src="https://user-images.githubusercontent.com/90729334/168380709-f0101e7a-f6c4-4469-bd71-6e7e60aa87dc.png">
 <img width="296" alt="soldering fail hehe" src="https://user-images.githubusercontent.com/90729334/168380736-fa2519e3-2596-412d-b14b-c773f3337b8b.png">
-![Uploading what the glove is<img width="281" alt="force sensor in glove" src="https://user-images.githubusercontent.com/90729334/168380830-22bb2c27-5d90-4c54-b80a-c71a4c9f83a5.png">
- supposed to look like .png…]()
-<img width="300" alt="accelerometer in glove" src="https://user-images.githubusercontent.com/90729334/168380833-fffcaeae-e356-4086-ad48-3ad2444f96f8.<img width="297" alt="accelerometer soldering" src="https://user-images.githubusercontent.com/90729334/168380844-508cf3db-9ed9-4c54-89b8-07f3687138fa.png">
-png">
+<img width="297" alt="accelerometer soldering" src="https://user-images.githubusercontent.com/90729334/168381831-ba051cf5-4117-441f-9241-fe8e16008718.png">
+<img width="294" alt="what the glove is supposed to look like " src="https://user-images.githubusercontent.com/90729334/168381689-ba86ef3b-4306-4fd6-ab9c-225f1a5c4480.png">
+<img width="300" alt="accelerometer in glove" src="https://user-images.githubusercontent.com/90729334/168381807-45235b83-56e6-4e8e-8657-602eecf4396d.png">
+<img width="281" alt="force sensor in glove" src="https://user-images.githubusercontent.com/90729334/168381851-92a4f9b0-d2b5-4b26-b88e-241ea50f3891.png">
 
 
 
