@@ -20,6 +20,15 @@ To start off, we started planning what recipes we would want the user to cook. W
 
 
 After deciding on the recipes and sensor applications, we started by writing the code for the sensors and connecting them with p5.js on a basic level. After that we set up opencv and connected it with the required sensors, then we started coding the application of the sensors in the context of the game - the accelerometer to flip the burger, the knife to cut the vegetables, and open cv to move objects around. We applied these functions into each individual recipe and later on added these recipes into one final p5.js file.
+![accelerometer circuit](https://user-images.githubusercontent.com/90729334/168380901-718195ed-883c-4f36-a0f2-4a6365d23dfc.jpg)
+https://user-images.githubusercontent.com/90729334/168380909-188d48d2-ff95-4059-b2d5-b3daa43a41a2.MP4
+https://user-images.githubusercontent.com/90729334/168380926-8ac826b2-1c5e-4954-8588-f3fa5301fe63.MP4
+![Force sensor circuit](https://user-images.githubusercontent.com/90729334/168380935-48f34e21-fab9-4799-ac9e-203673b332e4.jpg)![potentiometer circuit](https://user-images.githubusercontent.com/90729334/168380973-703f3586-d82e-4eb1-a085-b461613c5b98.jpg)
+<img width="300" alt="force sensors used" src="https://user-images.githubusercontent.com/90729334/168380989-c00b83a9-13f6-4187-ba91-97935cfed0f6.png">
+
+
+
+
 
 
 ## Execution: Software
@@ -534,7 +543,14 @@ While most of the game works smoothly, these are the recipe specific things that
 - Smoothie: Overall we were pretty happy with how the blender stages progress, especially the blending function where the user has to close the blender using the cap before blending it and how it would display the smoothie after they switch off the blender.
 
 
-We however had issues with setting up opencv to the correct canvas size because of the mirrored nature of opencv but with help from the professor we were able to make it work (thank you professor <3). We also had trouble with the grab function where it would grab multiple objects at once but once again we were able to resolve this issue with guidance from the professor (thank you again 🥰). Overall, we had a lot of issues with the coding, most of them which were caused because of sleep deprivation, but thankfully we were able to solve most of them. 
+We however had issues with setting up opencv to the correct canvas size because of the mirrored nature of opencv but with help from the professor we were able to make it work (thank you professor <3). We also had trouble with the grab function where it would grab multiple objects at once but once again we were able to resolve this issue with guidance from the professor (thank you again 🥰). Overall, we had a lot of issues with the coding, most of them which were caused because of sleep deprivation, but thankfully we were able to solve most of them.
+
+![cv color detection testing](https://user-images.githubusercontent.com/90729334/168381156-4ff1376e-a2c6-47f6-8883-f8558502b93a.jpg)
+<img width="398" alt="Screen Shot 2022-05-14 at 12 02 38 AM" src="https://user-images.githubusercontent.com/90729334/168381456-ed370e8a-4f46-43b7-9c32-d098161eeae9.png">
+
+
+
+
 
 ### What didn't work: 
 We faced a lot of issues while coding, most of them were tied to the use of time delays and user-dependent conditions. 
@@ -571,6 +587,15 @@ All the sensors needed to have 1) a header soldered on to avoid damage to the se
 Since we had around 18 wires dangling all over the place, we decided to twist some of them together with the help of a drill (thank you professor for the brilliant idea).
 Some other difficulties faced - and one of the reasons we could not finish the project in time, nor use the soldered circuit board- was that we had a short circuit that prevented the arduino from turning on, as well as a few misconnections, broken off wires… .
 Overall, we would say that soldering everything on was very laborious and time consuming, but nonetheless taught us a skill that will be beneficial in future projects and allowed for more mobility in our setup.
+<img width="297" alt="accelerometer soldering" src="https://user-images.githubusercontent.com/90729334/168380633-288e36b6-d208-4276-9b98-90efe9fdc499.png">
+<img width="296" alt="soldering dania" src="https://user-images.githubusercontent.com/90729334/168380700-fa738456-ee01-4a43-b880-ef1b6660d5d0.png">
+<img width="182" alt="soldering fail" src="https://user-images.githubusercontent.com/90729334/168380709-f0101e7a-f6c4-4469-bd71-6e7e60aa87dc.png">
+<img width="296" alt="soldering fail hehe" src="https://user-images.githubusercontent.com/90729334/168380736-fa2519e3-2596-412d-b14b-c773f3337b8b.png">
+![Uploading what the glove is<img width="281" alt="force sensor in glove" src="https://user-images.githubusercontent.com/90729334/168380830-22bb2c27-5d90-4c54-b80a-c71a4c9f83a5.png">
+ supposed to look like .png…]()
+<img width="300" alt="accelerometer in glove" src="https://user-images.githubusercontent.com/90729334/168380833-fffcaeae-e356-4086-ad48-3ad2444f96f8.<img width="297" alt="accelerometer soldering" src="https://user-images.githubusercontent.com/90729334/168380844-508cf3db-9ed9-4c54-89b8-07f3687138fa.png">
+png">
+
 
 
 ## Graphics
