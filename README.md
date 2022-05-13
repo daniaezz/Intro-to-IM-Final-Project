@@ -1,19 +1,3 @@
-Introduction to interactive media final project documentation
-
-Concept
-Process (creative and workflow)
-Execution 
-Software
-What worked
-Issues and Errors 
-Hardware
-What worked
-Issues and Errors
-Graphics
-
-Reflection/ Next steps
-
-
 # Cooking Baba
 ## Concept
 The concept for this project started with our own game experiences with physically interactive devices like the Wii-U and Nintendo Switch where the user would move the controllers around and the change would be reflected on the screen. We thought this was pretty similar and doable to what we could do with arduino and p5.js so we looked more into it. We recalled the steak cooking game in Mario party (image attached below) and decided to make a cooking game. We were also heavily inspired by cooking mama - a DS game that we played in our childhoods and decided to create a knockoff called cooking baba that would recreate a cooking experience by having all the tools and actions performed physically and little to no computer interaction (other than the visuals). 
