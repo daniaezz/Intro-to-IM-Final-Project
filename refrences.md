@@ -5,6 +5,10 @@ repo for Intro to IM final project
 
 # References 
 
+Updated p5 code for "Key pressed" instead of button:
+(PSSSSS: the key to connect the arduino is now "ENTER", And the arduino stuff are all commented out because I was just working with the keyboard)
+https://editor.p5js.org/j-da-savage/sketches/Rz2NoC07q
+
 ## Force Sensor
   - https://arduinogetstarted.com/tutorials/arduino-force-sensor	
   - P5: https://editor.p5js.org/j-da-savage/sketches/jDlA_ARcn	
